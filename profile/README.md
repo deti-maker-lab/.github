@@ -17,3 +17,14 @@ Our project aims to improve this existing information system. The current requis
 
 ## Links
 * **Project Website:** https://deti-maker-lab.github.io/
+
+<table>
+  <tr>
+    <td>
+      <img src="../static/img/deti-maker-lab.png" alt="Obrazek 1" width="300">
+    </td>
+    <td valign="middle">
+      <img src="../static/img/ua-logo-white.svg" alt="Obrazek 2" width="300">
+    </td>
+  </tr>
+</table>
