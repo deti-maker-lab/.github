@@ -18,4 +18,4 @@ Our project aims to improve this existing information system. The current requis
 ## Links
 * **Project Website:** https://deti-maker-lab.github.io/
 
-![DETI Maker Lab & Universidade de Aveiro logos](../static/img/deti-maker-lab_ua-white.png)
+![DETI Maker Lab & Universidade de Aveiro logos](../static/img/deti-maker-lab_ua-org.png)
